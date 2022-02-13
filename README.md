@@ -8,7 +8,12 @@ Poop Emoji Bootstrap 5 Boilerplate Template Site
 Basic code to build other Bootstrap projects off of. Why? Why not?
 
 ## Things to know
-
+  - Bootstrap
+  - Mobile-friendly
+  - Boilerplate
+  - Public Domain
+  - Yadda
+ 
 The images used on this boilerplate are not licensed by the creator and are not licensed to you. Change them.
 
 The code used on this boilerplate is licensed via The Unlicense. The full text of The Unlicense is available below and via a DDG Search.
