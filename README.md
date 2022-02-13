@@ -1,3 +1,7 @@
+[poopsite.pdf](/git/poopsite.pdf)
+
+![Bootstrap Boilerplate](/git/poopsite.png)
+
 # Poop Emoji Bootstrap 5 Boilerplate Template Site
 
 Poop Emoji Bootstrap 5 Boilerplate Template Site
