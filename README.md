@@ -13,8 +13,9 @@ The code used on this boilerplate is licensed via The Unlicense. The full text o
 
   - Visual Studio Code
   - Bootstrap 5
-  - Religious Fervor
-  - 
+  - DuckDuckGo
+  - Gimp
+
 ## The Unlicense
 
 This is free and unencumbered software released into the public domain.
